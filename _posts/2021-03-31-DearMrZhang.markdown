@@ -5,7 +5,7 @@ date:   2021-03-31 17:13:17 +0800
 categories: jekyll theme
 author: ZUOZUOZUOYOU
 location: 横店
-description: 去年六月的龚俊和今年三月的龚俊互传了
+description: 去年六月的龚俊和今年三月的龚俊互穿了
 ---
 ---
 
