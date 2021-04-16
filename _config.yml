@@ -1,5 +1,5 @@
 # Site configuration
-domain: "http://lingyea.xyz/"
+domain: "http://zuozuozuoyou.site/"
 # baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://Coccyx-desierto.github.io" # the base hostname & protocol for your site
 permalink: /:title/
@@ -31,7 +31,7 @@ enable_comment: false
 
  #Google Analytics
 ga_track_id: 'UA-149664959-1'            # Format: UA-xxxxxx-xx
-ga_domain: https://lingyea.xyz
+ga_domain: http://zuozuozuoyou.site 
 
 
 # gems: ['jekyll-paginate']
