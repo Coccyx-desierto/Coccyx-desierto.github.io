@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "【俊哲】缺德"
+title:  "【西蒙/疯子】缺德"
 date:   2021-04-27 17:13:17 +0800
 categories: jekyll theme
 author: ZUOZUOZUOYOU
